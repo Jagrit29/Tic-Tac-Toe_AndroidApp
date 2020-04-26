@@ -12,10 +12,10 @@ Built Tic Tac Toe Android Application using Android Studio and Java.
 
 ## Images
 <p float="left">
-<img style="padding:40px" src="https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905600.png" width="200" height="600">
+<img style="padding:40px" src="https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905648.png" width="200" height="600">
   
 <img src="https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905643.png" width="200" height="600">
-<img src="https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905648.png" width="200" height="600">
+<img src="https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905640.png" width="200" height="600">
 </p>
 
 
