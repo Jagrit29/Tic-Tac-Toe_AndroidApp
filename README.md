@@ -11,9 +11,9 @@ Built Tic Tac Toe Android Application using Android Studio and Java.
 7. Option to Play Again is implemented.
 
 ## Images
-![Image1](https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905600.png = 250x250)
-![Image2](https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905643.png)
-![Image3](https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905648.png)
+<img src="https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905600.png" width="200" height="600">
+<img src="https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905643.png" width="200" height="600">
+<img src="https://github.com/Jagrit29/Tic-Tac-Toe_AndroidApp/blob/master/images/Screenshot_1587905648.png" width="200" height="600">
 
 ## Guidance
 I enrolled in The Complete Android Oreo Developer Course - Build 23 Apps on Udemy.
